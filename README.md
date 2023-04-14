@@ -1,5 +1,5 @@
 # Keagan's Portfolio
-Portfolio of my best machine learning related coursework
+Portfolio of my best coursework
 ---
 
 ## Data Preprocessing
@@ -15,4 +15,13 @@ Portfolio of my best machine learning related coursework
 ---
 
 ## Comparison of the Generalize Additive Model and Nadaraya-Watson regression
+---
+
+## Neural Network
+---
+
+## One v All Classification
+---
+
+## Java Web Server
 ---
