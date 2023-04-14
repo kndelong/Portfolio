@@ -1,8 +1,3 @@
-# Keagan's Portfolio
-Portfolio of my best coursework
-
----
-
 ## Data Preprocessing
 ---
 - [Link](https://kndelong.github.io/portfolio/Python_Preprocessing.html)
