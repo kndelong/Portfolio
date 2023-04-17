@@ -1,3 +1,8 @@
+## Neural Networks (PyTorch)
+---
+
+- [Link](https://kndelong.github.io/portfolio/CNNs.html)
+
 ## Data Preprocessing
 ---
 - [Link](https://kndelong.github.io/portfolio/Python_Preprocessing.html)
@@ -18,7 +23,7 @@
 ---
 - [Link](https://kndelong.github.io/DATA441/GAM_NW.html)
 
-## Neural Network
+## Neural Networks (TensorFlow)
 ---
 - [Link](https://kndelong.github.io/portfolio/Python_Deeplearning_CodeExample.html)
 
