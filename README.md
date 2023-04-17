@@ -1,15 +1,15 @@
 ## Neural Networks (PyTorch)
 ---
 
-- [Link](https://kndelong.github.io/portfolio/CNNs.html)
+- [Link](https://kndelong.github.io/Portfolio/CNNs.html)
 
 ## Data Preprocessing
 ---
-- [Link](https://kndelong.github.io/portfolio/Python_Preprocessing.html)
+- [Link](https://kndelong.github.io/Portfolio/Python_Preprocessing.html)
 
 ## Classification and Clustering
 ---
-- [Link](https://kndelong.github.io/portfolio/Classification_and_Clustering.html)
+- [Link](https://kndelong.github.io/Portfolio/Classification_and_Clustering.html)
 
 ## Introduction to Locally Weighted Regression
 ---
@@ -25,12 +25,12 @@
 
 ## Neural Networks (TensorFlow)
 ---
-- [Link](https://kndelong.github.io/portfolio/Python_Deeplearning_CodeExample.html)
+- [Link](https://kndelong.github.io/Portfolio/Python_Deeplearning_CodeExample.html)
 
 ## One v All Classification
 ---
-- [Link](https://kndelong.github.io/portfolio/Python_One_vs_All_Class.html)
+- [Link](https://kndelong.github.io/Portfolio/Python_One_vs_All_Class.html)
 
 ## Java Web Server
 ---
-- [Link](https://kndelong.github.io/portfolio/MyWebServer.java)
+- [Link](https://kndelong.github.io/Portfolio/MyWebServer.java)
