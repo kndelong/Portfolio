@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visualizations</title>
+  <link rel="stylesheet" href="styles.css"> <!-- Link to the external CSS file -->
+</head>
+<body>
+
+  <h1>Interacting with Data: Voting Trends and Turnouts</h1> 
+  <hr>
+
+  <!-- Visualization 1 -->
+  <section>
+    <h2>Relationship Between Voting Habits, Education, and Income Levels</h2>
+    <p>
+      This visualization explores the relationship between voting frequency, education, and income levels using a parallel categories plot. The primary variable of interest is voting frequency, which is categorized as always, sporadic, or never. The plot displays the distribution of voting frequency across different education and income categories.
+    </p>
+    <p>
+      The parallel categories plot reveals patterns in voting habits based on income and education levels. By examining the ribbons connecting the categories, we can observe how voter frequency levels vary among different income and education groups. The visualization allows us to identify any trends or relationships between voting frequency and income/education, as well as any relationship between income and education themselves.
+    </p>
+    <p>
+      By analyzing this visualization, we can answer questions about the potential influence of income and education on voting habits, and explore how these factors might be related to one another.
+    </p>
+    <div class="responsive-iframe">
+      <iframe src="categories.html"></iframe>
+    </div>
+  </section>
+  <hr>
+  
+  <!-- Visualization 2 -->
+  <section>
+    <h2>Voter Turnout vs Absentee Voting by Region and Year</h2>
+    <p>
+      This visualization examines the change in voter turnout and absentee voting in Virginia General Elections from 2014 to 2022 using a bubble chart. The x-axis represents the percentage of registered voters who turned out to vote (pct_turnout), and the y-axis represents the percentage of absentee ballots (pct_absentee). The size of each bubble corresponds to the number of total registered voters, while the color represents the region of Virginia.
+    </p>
+    <p>
+      The bubble chart is animated by year, allowing us to observe trends and changes in voter turnout and absentee voting patterns over time. By analyzing the distribution, size, and color of the bubbles, we can identify any differences or relationships between voter turnout, absentee voting, and regional characteristics across election years.
+    </p>
+    <p>
+      This visualization helps us to answer questions about the impact of different election years on voter turnout and absentee voting, as well as any noticeable differences in turnout during Presidential election years compared to other years. The interactive nature of the plot enables us to explore the data in depth and uncover insights into the changing landscape of voting in Virginia.
+    </p>
+    <div class="responsive-iframe">
+      <iframe src="bubble.html"></iframe>
+    </div>
+  </section>
+  <hr>
+  
+  <!-- Visualization 3 -->
+  <section>
+    <h2>Virginia Voter Turnout in the 2022 General Election</h2>
+    <p>
+      This visualization presents a choropleth map showing the percentage of voter turnout in each city and county in Virginia during the 2022 general election. The map is created using Folium and utilizes the provided election_data.csv and counties_VA.json files for the underlying data and geographic boundaries.
+    </p>
+    <p>
+      Each locality is colored based on the percentage of voter turnout, with a legend displaying the corresponding turnout ranges. By examining the colors on the map, we can identify geographic trends and variations in voter turnout across Virginia. The map also includes tooltips that appear on mouseover, displaying the name of the locality. Upon clicking on a locality, a pop-up displays the percent turnout formatted as an integer (e.g. 25%) with the label "Percent Turnout."
+    </p>
+    <p>
+      This visualization is designed to be both informative and visually appealing, with a clear legend, well-defined locality divisions, and an appropriate default zoom. The chosen color map and binning strategy emphasize the differences in voter turnout between localities, allowing us to effectively analyze and discuss geographic trends in voter turnout based on the data presented.
+    </p>
+    <div class="responsive-iframe">
+      <iframe src="map.html"></iframe>
+    </div>
+  </section>
+  
+</body>
+</html>
